@@ -13,7 +13,7 @@ For Linux Based systems :
 pip3 install numpy pandas seaborn matplotlib scikit-learn notebook
 jupyter notebook DA_Proj_Final.ipynb
 ```
-For Windows systems : 
+For Windows systems (open cmd as administrator): 
 ```bash
 pip install numpy pandas seaborn matplotlib scikit-learn notebook
 jupyter notebook DA_Proj_Final.ipynb
