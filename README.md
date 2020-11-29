@@ -4,6 +4,8 @@ This is an academic project for 5th Semester Data Analytics Course
 
 ## Instructions to run the notebook
 
+Download ZIP file of the repo and extract it.
+
 Run the lines below to install the python libraries used and Jupyter Notebook
 
 For Linux Based systems : 
